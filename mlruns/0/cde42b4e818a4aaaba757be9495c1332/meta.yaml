@@ -1,0 +1,15 @@
+artifact_uri: file:///home/caleb/school/fall-2023/Artificial-Neural-Net/assignment4/cosc-mlflow/mlruns/0/cde42b4e818a4aaaba757be9495c1332/artifacts
+end_time: 1700279377665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cde42b4e818a4aaaba757be9495c1332
+run_name: receptive-owl-530
+run_uuid: cde42b4e818a4aaaba757be9495c1332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700279374877
+status: 3
+tags: []
+user_id: caleb
