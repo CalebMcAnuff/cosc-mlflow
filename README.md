@@ -2,4 +2,4 @@
 Cosc Neural Networks assignment 4
 
 ### Upload train.py to github
-### Host on aws ec2
+### Host on dagshub

@@ -76,7 +76,7 @@ if __name__ == "__main__":
         mlflow.log_metric("r2", r2)
         mlflow.log_metric("mae", mae)
 
-        remote_server_uri = "https://dagshub.com/CalebMcAnuff/MLflow-test.mlflow"
+        remote_server_uri = "https://dagshub.com/CalebMcAnuff/cosc-mlflow.mlflow"
         mlflow.set_tracking_uri(remote_server_uri)
         # predictions = lr.predict(train_x)
         # signature = infer_signature(train_x, predictions)
